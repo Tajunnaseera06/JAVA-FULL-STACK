@@ -22,7 +22,7 @@ public class Rotate2 {
           }
           System.out.println(Arrays.toString(a));
         }
-    }
+     }
                  
 
 //rotate the array to  left by k times
